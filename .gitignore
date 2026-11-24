@@ -13,3 +13,6 @@ bikeshare_data.*
 
 # SO
 .DS_Store
+
+bikeshare.dat
+.Rhistory
